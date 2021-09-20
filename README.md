@@ -1,20 +1,16 @@
+![capa](https://user-images.githubusercontent.com/86531281/134087104-51300a13-ef14-44e8-a933-4e47b6d92dd4.png)
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>   |   
   <a href="#-projeto">Projeto</a>   |   
-  <a href="#-layout">Layout</a>   |   
-  <a href="#memo-licença">Licença</a>
 </p>
 
 
 <br>
 
-<p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias
 
