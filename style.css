@@ -1,9 +1,10 @@
 /* Global ===================== */
 :root {
-  --dark-blue: #363f5f;
-  --green: #49AA26;
-  --light-green: #3dd705;
+  --dark-blue: #02012B;
+  --green: #05D9E7;
+  --light-green: #66DB3C;
   --red: #e92929;
+  --pink: #FF2A6C;
 
 }
 
@@ -18,7 +19,7 @@ html {
 }
 
 body {
-  background: #f0f2f5;
+  background: var(--dark-blue);
   font-family:'Poppins', sans-serif
 }
 
@@ -103,7 +104,7 @@ button:hover {
 
 /* Header ===================== */
 header {
-  background: #2D4A22;
+  background: var(--pink);
   padding: 2rem 0 10rem;
   text-align: center;
 }
